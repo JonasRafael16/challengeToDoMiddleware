@@ -25,7 +25,6 @@ function checksExistsUserAccount(request, response, next) {
   }
 
   request.user = user;
-  console.log(request.user)
   next();
 
 }
