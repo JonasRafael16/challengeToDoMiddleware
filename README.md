@@ -1,4 +1,4 @@
-# challengeToDoMiddleware
+# Ignite Challenge 02
 
 ## This challenge consists of creating middleware to complete the application in node.js
 
